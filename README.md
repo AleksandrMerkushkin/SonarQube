@@ -1,4 +1,4 @@
-# sonarqube
+# SonarQube
 Task 1. Automated Code Analysis
 Review
 Public Java-based project will be setup in Jenkins job with Sonar analysis
